@@ -1,0 +1,12 @@
+h1{
+    margin: 0 0 10px 0;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 6px 4px -4px rgba(0, 0, 0, .2);
+}
+
+.content{
+    display: flex;
+    height: 80vh;
+    padding: 0 30px
+}
