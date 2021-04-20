@@ -1,6 +1,5 @@
 import React from "react";
 import styles from "../User/User.module.css";
-import "antd/dist/antd.css";
 import ava from "../../../img/avatar-icon.png";
 import axios from "axios";
 
